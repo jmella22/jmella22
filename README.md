@@ -3,19 +3,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Puppy Point](https://puppypoint.vercel.app/)
-
-- 🌱 I’m currently learning **styled-components**
-
-- 📫 How to reach me **leomoralesarce@gmail.com**
-
-- ⚡ Fun fact **I play videogames.**
+-aqui me flata información
 
 <br/>
 
 ## ⚙️ Languages and Tools:
-
-<p align="left"> 
+<p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
@@ -53,7 +46,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
 </p>
-
 <br/>
 
 ## 🚀 Projects:
@@ -66,17 +58,6 @@ Puppy Point is an app that connects dog walkers with people who don't have time 
 
 <br/>
 <img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413883/projects/puppypoint_hiqylo.png'  alt="puppy point" />
-
-<br/>
-
-### Countries App
-Countries App is a SPA (Single Page Application) in which all the countries of the world and their respective tourist activities can be viewed.
-
-- Backend: Node JS, Express JS, Sequelize, Postgres, Axios
-- Frontend: React JS, Redux, CSS Modules, React-router-DOM, Redux Thunk
-
-<br/>
-<img src='https://res.cloudinary.com/puppy-point/image/upload/v1653413575/projects/countries_ziffec.png'  alt="countries app" />
 
 <br/>
 
