@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jose 👋 <br/>
-A passionate Full Stack Developer from Chile to World</h1>
+A passionate Full Stack Developer from Chile to World 🌎</h1>
 
 ## 🙋‍♂️ About Me
 
