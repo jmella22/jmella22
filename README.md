@@ -65,12 +65,16 @@ A passionate Full Stack Developer from Chile to World 🌎</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center" margin-left="10px"/> 
 </a>
  
- <a href="#" target="_blank" rel="noreferrer"> 
+ <a href="https://www.adobe.com/cl/products/illustrator.html" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" align="center" margin-left="10px">
 </a>
  
-<a href="#" target="_blank" rel="noreferrer"> 
+<a href="https://www.adobe.com/cl/products/photoshop.html" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" align="center" margin-left="10px"/>
+</a>
+
+<a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" align="center" margin-left="10px"/>
 </a>
  
 </p>
