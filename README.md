@@ -102,7 +102,7 @@ Puppy Point is an app that connects dog walkers with people who don't have time 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmella22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="jmella22" />
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmella22&show_icons=true&locale=en&layout=compact" alt="jmella22" /></p>
+ 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmella22&show_icons=true&locale=en" alt="jmella22" /></p>
 
